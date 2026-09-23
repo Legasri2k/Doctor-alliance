@@ -1,0 +1,1 @@
+Doctor Alliance Dashboard is an interactive Power BI project that analyzes hospital performance using KPIs such as patient count, wait time, satisfaction score, referrals, and admissions. Built with Power BI, Power Query, DAX, and data modeling to provide actionable healthcare insights through dynamic and interactive visualizations.
